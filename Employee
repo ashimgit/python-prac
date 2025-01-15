@@ -1,0 +1,7 @@
+from ast import Pass
+
+
+class Employee:
+    def __init__(self):
+        #print('Person Constructor')
+        Pass

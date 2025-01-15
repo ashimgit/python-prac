@@ -8,6 +8,8 @@ print("Hello")
 def main():
     print("hey there")
 
+    object_emp= Employee()
+
 
 # Using the special variable 
 # __name__
